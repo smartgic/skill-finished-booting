@@ -1,0 +1,8 @@
+skillMetadata:
+  sections:
+    - name: Configuration
+      fields:
+        - name: mp3_file
+          type: text
+          label: Absolute path to the MP3 file 
+          value: ""
